@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/sijohans/sample-project.svg?branch=master)](https://travis-ci.org/sijohans/sample-project)
 # Python example project
 Test project to learn how to package python projects.
 
