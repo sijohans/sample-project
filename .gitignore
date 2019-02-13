@@ -9,6 +9,7 @@ __pycache__/
 *~
 .idea
 venv*
+*.class
 
 # due to using tox and pytest
 .tox
